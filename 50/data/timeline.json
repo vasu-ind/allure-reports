@@ -1,0 +1,39 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "Vasu-T94RD7FC",
+    "children" : [ {
+      "name" : "11016@Vasu-T94RD7FC.main(1)",
+      "children" : [ {
+        "name" : "To Verify that when the user search for a specific text, the page navigates to the Search Result Page",
+        "uid" : "5e6a4632f1a51f2",
+        "parentUid" : "e28f322992a336e5545af5382d94797c",
+        "status" : "passed",
+        "time" : {
+          "start" : 1595071961873,
+          "stop" : 1595071971920,
+          "duration" : 10047
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "1" ]
+      }, {
+        "name" : "To Verify that when the user click on I'm Feeling Lucky button, the page navigates to Doodles Page",
+        "uid" : "37f33324a110f58c",
+        "parentUid" : "e28f322992a336e5545af5382d94797c",
+        "status" : "passed",
+        "time" : {
+          "start" : 1595071920098,
+          "stop" : 1595071944830,
+          "duration" : 24732
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "e28f322992a336e5545af5382d94797c"
+    } ],
+    "uid" : "fa6b4d93dcb49fe3fe7f932fee7194d1"
+  } ]
+}
