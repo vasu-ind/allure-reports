@@ -1,0 +1,158 @@
+{
+  "uid" : "2370de0a5f42ca6e",
+  "name" : "To Verify that when the user click on I'm Feeling Lucky button, the page navigates to Doodles Page",
+  "fullName" : "testCases.DoodlesTest.TC_ValidateDoodlesPage",
+  "historyId" : "a791a560f610cd1ec429c8768a9a485c",
+  "time" : {
+    "start" : 1595068670053,
+    "stop" : 1595068694753,
+    "duration" : 24700
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "beforeTC",
+    "time" : {
+      "start" : 1595068659574,
+      "stop" : 1595068669686,
+      "duration" : 10112
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false,
+    "stepsCount" : 0
+  }, {
+    "name" : "beforeDiscoverAPI",
+    "time" : {
+      "start" : 1595068659566,
+      "stop" : 1595068659570,
+      "duration" : 4
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false,
+    "stepsCount" : 0
+  }, {
+    "name" : "Initialize",
+    "time" : {
+      "start" : 1595068659088,
+      "stop" : 1595068659554,
+      "duration" : 466
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "6f167416a2fe7e82",
+      "name" : "<SCREENSHOT> --> Click on I'm Feeling Lucky",
+      "source" : "6f167416a2fe7e82.png",
+      "type" : "image/png",
+      "size" : 777149
+    }, {
+      "uid" : "8152b5c845ecf1bd",
+      "name" : "<SCREENSHOT> --> Validate page navigation to 'Doodle Page'",
+      "source" : "8152b5c845ecf1bd.png",
+      "type" : "image/png",
+      "size" : 773990
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 2,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true,
+    "stepsCount" : 0
+  },
+  "afterStages" : [ {
+    "name" : "afterTC",
+    "time" : {
+      "start" : 1595068694825,
+      "stop" : 1595068696152,
+      "duration" : 1327
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false,
+    "stepsCount" : 0
+  }, {
+    "name" : "finalize",
+    "time" : {
+      "start" : 1595068719399,
+      "stop" : 1595068719500,
+      "duration" : 101
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "testCases.DoodlesTest"
+  }, {
+    "name" : "testClass",
+    "value" : "testCases.DoodlesTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "TC_ValidateDoodlesPage"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Command line suite"
+  }, {
+    "name" : "suite",
+    "value" : "Command line test"
+  }, {
+    "name" : "subSuite",
+    "value" : "testCases.DoodlesTest"
+  }, {
+    "name" : "host",
+    "value" : "Vasu-T94RD7FC"
+  }, {
+    "name" : "thread",
+    "value" : "4844@Vasu-T94RD7FC.main(1)"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "2370de0a5f42ca6e.json",
+  "parameterValues" : [ ]
+}

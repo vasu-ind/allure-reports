@@ -1,0 +1,161 @@
+{
+  "uid" : "ba199cad52a181f4",
+  "name" : "To Verify that when the user search for a specific text, the page navigates to the Search Result Page",
+  "fullName" : "testCases.GoogleSearchTest.TC_SearchInGoogle",
+  "historyId" : "7a73b494b06dee9b1a3bd78a9d7b3197",
+  "time" : {
+    "start" : 1595068708366,
+    "stop" : 1595068717934,
+    "duration" : 9568
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "beforeTC",
+    "time" : {
+      "start" : 1595068697155,
+      "stop" : 1595068708324,
+      "duration" : 11169
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false,
+    "stepsCount" : 0
+  }, {
+    "name" : "beforeDiscoverAPI",
+    "time" : {
+      "start" : 1595068696157,
+      "stop" : 1595068696181,
+      "duration" : 24
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false,
+    "stepsCount" : 0
+  }, {
+    "name" : "Initialize",
+    "time" : {
+      "start" : 1595068659088,
+      "stop" : 1595068659554,
+      "duration" : 466
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "b88ea1d68468ace1",
+      "name" : "<SCREENSHOT> --> Enter a Search Text :'Automation'",
+      "source" : "b88ea1d68468ace1.png",
+      "type" : "image/png",
+      "size" : 148760
+    }, {
+      "uid" : "c324f66c86f350b0",
+      "name" : "<SCREENSHOT> --> Validate page navigation to 'Result Page'",
+      "source" : "c324f66c86f350b0.png",
+      "type" : "image/png",
+      "size" : 148760
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 2,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true,
+    "stepsCount" : 0
+  },
+  "afterStages" : [ {
+    "name" : "afterTC",
+    "time" : {
+      "start" : 1595068717938,
+      "stop" : 1595068719095,
+      "duration" : 1157
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false,
+    "stepsCount" : 0
+  }, {
+    "name" : "finalize",
+    "time" : {
+      "start" : 1595068719399,
+      "stop" : 1595068719500,
+      "duration" : 101
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "testCases.GoogleSearchTest"
+  }, {
+    "name" : "testClass",
+    "value" : "testCases.GoogleSearchTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "TC_SearchInGoogle"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Command line suite"
+  }, {
+    "name" : "suite",
+    "value" : "Command line test"
+  }, {
+    "name" : "subSuite",
+    "value" : "testCases.GoogleSearchTest"
+  }, {
+    "name" : "host",
+    "value" : "Vasu-T94RD7FC"
+  }, {
+    "name" : "thread",
+    "value" : "4844@Vasu-T94RD7FC.main(1)"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "arg0",
+    "value" : "1"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "ba199cad52a181f4.json",
+  "parameterValues" : [ "1" ]
+}
