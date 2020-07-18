@@ -1,0 +1,47 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "Command line suite",
+    "children" : [ {
+      "name" : "Command line test",
+      "children" : [ {
+        "name" : "testCases.DoodlesTest",
+        "children" : [ {
+          "name" : "To Verify that when the user click on I'm Feeling Lucky button, the page navigates to Doodles Page",
+          "uid" : "e2b1b326c9fb4409",
+          "parentUid" : "826a2ebb4ceef12b7c32d8723c86d68f",
+          "status" : "passed",
+          "time" : {
+            "start" : 1595072965524,
+            "stop" : 1595073001014,
+            "duration" : 35490
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "826a2ebb4ceef12b7c32d8723c86d68f"
+      }, {
+        "name" : "testCases.GoogleSearchTest",
+        "children" : [ {
+          "name" : "To Verify that when the user search for a specific text, the page navigates to the Search Result Page",
+          "uid" : "8c757fe1becad8da",
+          "parentUid" : "9cbd15c2f75a54470ea53ac6d3465fe9",
+          "status" : "passed",
+          "time" : {
+            "start" : 1595073016361,
+            "stop" : 1595073044698,
+            "duration" : 28337
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "1" ]
+        } ],
+        "uid" : "9cbd15c2f75a54470ea53ac6d3465fe9"
+      } ],
+      "uid" : "d25b44baf1a59b2ba9e824375ad84458"
+    } ],
+    "uid" : "a3ebd3885f734b5e692af432fe3ee17b"
+  } ]
+}
